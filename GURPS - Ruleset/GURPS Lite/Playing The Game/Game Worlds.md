@@ -41,3 +41,9 @@ When designing a new setting for your game, start with the checklist below. It i
 [[Armor]]
 [[Shields]]
 [[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

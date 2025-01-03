@@ -1,6 +1,7 @@
 ### Table of Contents
 [[#General Overview]]
 [[#Wealth]]
+[[#Starting Wealth]]
 [[#Reputation]]
 [[#Importance]]
 [[#Status]]
@@ -22,6 +23,27 @@ Wealth is relative. A middle-class American lives in more luxury than a medieval
 | Wealthy      | Your starting wealth is five times average; you live very well indeed.                                                                                                  | 20 points  |
 | Very Wealthy | Your starting wealth is 20 times the average.                                                                                                                           | 30 points  |
 | Filthy Rich  | Your starting wealth is 100 times average. You can buy almost anything you want without considering the cost.                                                           | 50 points  |
+
+---
+
+### Starting Wealth
+“Starting wealth” covers both money and property. Start with the amount of money your wealth level entitles you to for your game world. Buy the possessions you want to start with. Any unspent money is your “bank account.” Realistically, if you have a settled lifestyle, you should put 80% of your starting wealth into home, clothing, etc., which leaves only 20% for “adventuring” gear. If you are a wanderer (pioneer, knight-errant, Free Trader, etc.), or Poor or worse, the GM might allow you to spend all your starting wealth on movable possessions. All prices in GURPS appear in “$”: a convenient abbreviation for any baseline unit of currency suitable to the setting. One $ may be one dollar, one credit, one copper piece, or whatever else is appropriate. Prices assume a typical sale made by an ordinary merchant. Tech level (p. 7) determines starting wealth, as technologically advanced societies tend to be richer. Below is a comparison of TLs and suggested starting wealth.
+
+| Tech Level | Description                      | Cost     |
+| ---------- | -------------------------------- | -------- |
+| TL0        | Stone Age (Prehistory and later) | $250     |
+| TL1        | Bronze Age (3500 B.C.+)          | $500     |
+| TL2        | Iron Age (1200 B.C.+)            | $750     |
+| TL3        | Medieval (600 A.D.+)             | $1,000   |
+| TL4        | Age of Sail (1450+)              | $2,000   |
+| TL5        | Industrial Revolution (1730+)    | $5,000   |
+| TL6        | Mechanized Age (1880+)           | $10,000  |
+| TL7        | Nuclear Age (1940+)              | $15,000  |
+| TL8        | Digital Age (1980+)              | $20,000  |
+| TL9        | Microtech Age (2025+?)           | $30,000  |
+| TL10       | Robotic Age (2070+?)             | $50,000  |
+| TL11       | Age of Exotic Matter             | $75,000  |
+| TL12+      | Whatever the GM likes!           | $100,000 |
 
 ---
 ### Reputation

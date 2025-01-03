@@ -169,3 +169,9 @@ Thrown objects inflict thrust damage for your ST (see Damage Table, p. 6), modif
 [[Armor]]
 [[Shields]]
 [[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]
