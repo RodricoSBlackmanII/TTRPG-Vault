@@ -42,15 +42,25 @@ Your written comprehension level determines your degree of literacy in that lang
 | Literacy       | A written comprehension of Accented or Native means you can read and write at full speed. You get Native level written comprehension in your native language for free. | -1 point for Accented, 0 points for Native |
 
 ---
+
 ## Links to other Pages (In Order)
 
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -58,4 +68,16 @@ Your written comprehension level determines your degree of literacy in that lang
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
 
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

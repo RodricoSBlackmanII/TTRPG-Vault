@@ -8,50 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cc5b8a4e6eec6ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPSSoloAdventures/DragonsDemise-GURPS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DragonsDemise-GURPS"
-            }
-          },
-          {
             "id": "b1ee7b473b2d38dd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Foundry/Data/GURPS 4th - Lite.pdf"
+                "file": "GURPS Book PDFs/GURPS 4th - Lite.pdf"
               },
               "icon": "lucide-file-text",
               "title": "GURPS 4th - Lite"
             }
-          }
-        ]
-      },
-      {
-        "id": "1b121b7fcd653eb3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7a8a90e68986c0eb",
+            "id": "52dafec5a0bf3d4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
+                "file": "GURPS - Ruleset/GURPS Lite/Equipment/Weapon Types/Muscle-Powered Ranged Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Injury, Illness, and Fatigue"
+              "title": "Muscle-Powered Ranged Weapons"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,27 +201,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cc5b8a4e6eec6ce",
+  "active": "52dafec5a0bf3d4d",
   "lastOpenFiles": [
+    "GURPS Book PDFs/GURPS 4th - Lite.pdf",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Weapon Types/Muscle-Powered Ranged Weapons.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Weapon Types/Melee Weapons.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Weapon Types/Firearms.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Weapons.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Armor.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Physical Feats.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Mental Feats.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Injury, Illness, and Fatigue.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Game Worlds.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Combat.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Homepage.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Wealth and Influence.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Image and Looks.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Overview.md",
+    "GURPS - Ruleset/GURPS Lite/Homepage.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Resources.md",
     "README.md",
     "GURPSSoloAdventures/The Cold Bounty.pdf",
-    "GURPSSoloAdventures/The Cold Bounty.pdf.crdownload",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
-    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe1242734191534298882",
-    "Foundry/Data/GURPS 4th - Lite.pdf",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Mental Feats.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Reaction Rolls.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Resources.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Social Background.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Skills.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Quirks.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Disadvantages.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Advantages.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Character Improvement.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Combat.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Damage Rolls.md",
-    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
-    "GURPSSoloAdventures/Beyond-the-Vale-of-Madness-GURPS.pdf",
-    "GCS General/GURPS Solo Adventures/Dragons Demise",
-    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf.crdownload",
-    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe7075164151870137545",
-    "GCS General/User Created/Created Unused Characters/Beyond The Vale of Madness/King Coppertong.gcs",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Mental Feats.md",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Notes",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Naomi Sawyer.gcs",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Game Journal",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Finn Galbrandt.gcs",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Elliot Clarren.gcs",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Dax Parker.gcs",
+    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBrassDragon.webp",
@@ -249,23 +248,6 @@
     "Foundry/Data/systems/dnd5e/tokens/monstrosity/Androsphinx.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBlueDragon.webp",
     "Foundry/Data/systems/dnd5e/tokens/celestial/SolarBow.webp",
-    "Foundry/Data/modules/_CodeMirror/CHANGELOG.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Workout/Bodyweight Recommended (Reddit).md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Safe Wi-Fi Usage - SFA.md",
-    "Private - Do Not Touch/Marriage Document/Beliefs.md",
-    "Foundry/Data/modules/_CodeMirror/README.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/The Almanack of Naval Ravikant/The Almanack of Naval Ravikant.md",
-    "Foundry/Data/modules/_CodeMirror/CONTRIBUTING.md",
-    "Private - Do Not Touch/Marriage Document/How we treat each other.md",
-    "Private - Do Not Touch/Marriage Document/How we resolve problems.md",
-    "Private - Do Not Touch/Our Brain/D&D/Alchemist - By Shalamar.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Industry Certifications - SFA.md",
-    "Foundry/Data/modules/gm-notes/patchnotes.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Protecting End Devices - SFA.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Challenges of Securing IoT devices - SFA.md",
-    "Foundry/Data/modules/gm-notes/README.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/A refusal of individuality..md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Mathematical Statements.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",

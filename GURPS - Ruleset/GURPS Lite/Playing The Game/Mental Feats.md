@@ -2,6 +2,7 @@
 [[#Sense Rolls]]
 [[#Influence Rolls]]
 [[#Will Rolls]]
+[[#Links to other Pages (In Order)]]
 
 ---
 # Sense Rolls
@@ -59,3 +60,42 @@ A Fright Check is subject to any number of modifiers, including ones derived fro
 A failed Fright Check results in the character being stunned (see p. 30) for a number of seconds equal to the margin of your failure, plus 2d. On a critical failure, the victim faints, and cannot be revived for the margin of failure plus 1d minutes. Hope the thing that scared you isn’t hungry . . .
 
 ---
+
+## Links to other Pages (In Order)
+
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
+[[Tables]]
+[[Success Rolls]]
+[[Reaction Rolls]]
+[[Damage Rolls]]
+
+### Characters
+
+[[Character Overview]]
+[[Character Points]]
+[[Basic Attributes]]
+##### Character Sheet
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
+[[Image and Looks]]
+[[Social Background]]
+[[Wealth and Influence]]
+[[Advantages]]
+[[Disadvantages]]
+[[Quirks]]
+[[Skills]]
+[[Character Improvement]]
+
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

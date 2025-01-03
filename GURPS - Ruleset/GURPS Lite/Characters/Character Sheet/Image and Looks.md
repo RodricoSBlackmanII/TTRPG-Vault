@@ -37,15 +37,27 @@ You usually or always behave in a fashion repugnant to others. An Odious Persona
 ### Voice
 ***10 points***
 You have a naturally clear, resonant, and attractive voice. This gives you +2 with any skill that depends on speaking or singing (with the GM’s approval, of course). You also get +2 on any reaction roll made by someone who can hear your voice.
+
+---
+
 ## Links to other Pages (In Order)
 
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -53,4 +65,16 @@ You have a naturally clear, resonant, and attractive voice. This gives you +2 wi
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
 
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

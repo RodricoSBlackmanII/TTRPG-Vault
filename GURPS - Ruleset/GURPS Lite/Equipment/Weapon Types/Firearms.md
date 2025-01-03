@@ -33,3 +33,43 @@ A “firearm” is any gun, rocket, or beam weapon that does not rely on muscle 
 | 6                     | 4  | Pump Shotgun, 12G             | 1d+1 pi-   | 3   | 50/125  | 8/0.7   | 2¥9 | 5(3i)  | 10†  | $240   | –         |
 
 ---
+
+## Links to other Pages (In Order)
+
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
+[[Tables]]
+[[Success Rolls]]
+[[Reaction Rolls]]
+[[Damage Rolls]]
+
+### Characters
+
+[[Character Overview]]
+[[Character Points]]
+[[Basic Attributes]]
+##### Character Sheet
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
+[[Image and Looks]]
+[[Social Background]]
+[[Wealth and Influence]]
+[[Advantages]]
+[[Disadvantages]]
+[[Quirks]]
+[[Skills]]
+[[Character Improvement]]
+
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]
+

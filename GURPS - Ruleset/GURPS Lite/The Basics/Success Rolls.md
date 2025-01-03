@@ -101,14 +101,24 @@ Both of them roll the success check (or auto-fail if they have 3 or less E.S.)
 - Keep continuing until one succeeds, and the other fails. 
 
 ---
+
 ## Links to other Pages (In Order)
+
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -116,5 +126,17 @@ Both of them roll the success check (or auto-fail if they have 3 or less E.S.)
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
 
----
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]
