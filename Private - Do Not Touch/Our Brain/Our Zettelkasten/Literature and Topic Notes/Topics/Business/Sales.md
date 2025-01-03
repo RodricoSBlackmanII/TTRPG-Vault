@@ -1,3 +1,0 @@
-
-### Look into:
-- Robert Cialdini

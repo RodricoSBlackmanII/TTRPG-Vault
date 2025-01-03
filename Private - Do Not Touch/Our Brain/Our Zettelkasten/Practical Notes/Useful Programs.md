@@ -1,4 +1,0 @@
-
-
-### Handbrake
-- Video Compression

@@ -1,2 +1,0 @@
-
-## Chosen Business Model
