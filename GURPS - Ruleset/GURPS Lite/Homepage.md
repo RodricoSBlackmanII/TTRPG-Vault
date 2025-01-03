@@ -19,21 +19,37 @@ Over 200 different books have been published for GURPS, in eight different langu
 
 ---
 ### Materials Needed to Play
-To play, you will need these rules, three six-sided dice, pencils, and scratch paper.
+To play, you will need:
+
+- GURPS Lite 
+- 3d6
+- Paper
+- Pencil / Pens
 
 ---
 ### About GURPS Lite
 This is the boiled-down “essence” of GURPS: all the fundamental rules, but not the options and embellishments that often confuse new players. Once you’re comfortable with these rules, you can pick up the GURPS Basic Set (CREATE A LINK TO THE HOMEPAGE OF THE BASIC SET) and jump right into the action. Experienced Game Masters will, we hope, find this a valuable tool for introducing new players to the game.
 
 ---
+
 ## Links to other Pages (In Order)
+
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -41,4 +57,16 @@ This is the boiled-down “essence” of GURPS: all the fundamental rules, but n
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
 
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

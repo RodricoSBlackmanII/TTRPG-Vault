@@ -38,15 +38,25 @@ Your formally recognized place in society is distinct from your personal fame an
 Status is a measure of social standing. In most game worlds, Status levels range from -2 (serf or street person) to 8 (powerful emperor or god-king), with the average man being Status 0 (freeman or ordinary citizen). If you do not specifically buy Status, you have Status 0. Status costs 5 points per level. For instance, Status 5 costs 25 points, while Status -2 is -10 points. Status greater than 0 means you are a member of the ruling class in your culture. As a result, others in your culture only defer to you, giving you a bonus on all reaction rolls. Status less than 0 means you are a serf or a slave, or simply very poor.
 
 ---
+
 ## Links to other Pages (In Order)
 
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -54,3 +64,16 @@ Status is a measure of social standing. In most game worlds, Status levels range
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
+
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

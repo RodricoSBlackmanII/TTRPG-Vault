@@ -145,13 +145,22 @@ Description: An explanation of what the skill is for and how it works in play.
 ---
 ## Links to other Pages (In Order)
 
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
 [[Tables]]
 [[Success Rolls]]
 [[Reaction Rolls]]
 [[Damage Rolls]]
+
+### Characters
+
 [[Character Overview]]
 [[Character Points]]
 [[Basic Attributes]]
+##### Character Sheet
+
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
 [[Image and Looks]]
 [[Social Background]]
 [[Wealth and Influence]]
@@ -159,4 +168,16 @@ Description: An explanation of what the skill is for and how it works in play.
 [[Disadvantages]]
 [[Quirks]]
 [[Skills]]
+[[Character Improvement]]
 
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]

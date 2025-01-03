@@ -1,4 +1,10 @@
 ### Table of Contents 
+[[#Table of Contents]]
+[[#General Overview]]
+[[#Weapons Statistics]]
+[[#Types of Weapons]]
+[[#Notes]]
+[[#Links to other Pages (In Order)]]
 
 ### General Overview
 Adventurers often carry weapons of some sort, whether it’s a knight’s broadsword, a detective’s snub-nosed .38, or a space pirate’s blaster pistol. 
@@ -6,18 +12,19 @@ Adventurers often carry weapons of some sort, whether it’s a knight’s broads
 First, decide why you carry a weapon. Is it for self-defense, intimidation (“Stop or I’ll shoot!”), battle, or hunting? Also review your skills and Strength. High-tech weapons (such as guns) work equally well for anyone who knows how to use them. Low-tech weapons – clubs, swords, etc. – do much more damage if wielded by a strong person. Finally, look at the weapon’s statistics. A weapon’s damage rating is the basic measure of its effectiveness, but there are also factors such as range, rate of fire, and accuracy to consider
 
 ---
-### Weapons Statistics
+# Weapons Statistics
+
 Weapon tables provide the items of information explained below. A given column will only appear on a table if it is germane to the weapons on that table. In all cases, “–” means the statistic does not apply, and “var.” means the value varies. 
 
-### TL (Tech Level)
+>[!Tech-Level-Definition] TL (Tech Level)
 The tech level at which the weapon first becomes widespread. You may only buy weapons of your campaign’s TL or less, unless you have the High TL trait (p. 7). 
 
 ---
 
-### Weapon
-The general class of weapon in question; e.g., “shortsword” or “assault rifle.” Each entry represents a wide range of individual types. 
-
-For guns, this entry includes a projectile diameter, or “caliber,” given in millimeters (e.g., 9mm) or fractions of an inch (e.g., .50), as customary for the weapon. 
+>[!Weapon-Definition] Weapon
+> The general class of weapon in question; e.g., “shortsword” or “assault rifle.” Each entry represents a wide range of individual types. 
+>
+> For guns, this entry includes a projectile diameter, or “caliber,” given in millimeters (e.g., 9mm) or fractions of an inch (e.g., .50), as customary for the weapon. 
 
 ---
 # Damage
@@ -25,15 +32,19 @@ For muscle-powered melee and missile weapons, such as swords and bows, damage is
 
 For firearms and some powered melee weapons, damage is given as a fixed number of dice plus adds; e.g., a 9mm auto pistol lists “2d+2,” which means that any user would roll 2d and add 2 to get damage. 
 
-### Armor Divisors
+---
 
-A parenthetical number after damage – e.g., (2) – is an armor divisor. Divide the target’s DR from armor or other sources by this number before subtracting it from your damage (or adding it to the target’s HT roll to resist an affliction). For instance, an attack with a divisor of (2) would halve DR. 
+>[!Armor-Divisors] Armor Divisors
+>
+> A parenthetical number after damage – e.g., (2) – is an armor divisor. Divide the target’s DR from armor or other sources by this number before subtracting it from your damage (or adding it to the target’s HT roll to resist an affliction). For instance, an attack with a divisor of (2) would halve DR. 
 
-### Damage Type
+---
 
-An abbreviation indicating the type of injury or effect the attack causes. 
-
-| Abbreviation | Damage Type    | Notes                                         |
+>[!Damage-Type] Damage Type
+>
+>An abbreviation indicating the type of injury or effect the attack causes. 
+>
+> | Abbreviation | Damage Type    | Notes                                         |
 | ------------ | -------------- | --------------------------------------------- |
 | burn         | burning        |                                               |
 | cr           | crushing       |                                               |
@@ -44,50 +55,51 @@ An abbreviation indicating the type of injury or effect the attack causes.
 | pi+          | large piercing | Damage increases by 50% after penetrating DR. |
 A victim loses HP equal to the damage that penetrates his DR. Halve this for small piercing attacks; increase it by 50% for cutting and large piercing attacks; and double it for impaling.
 
-### Damage Roll
-
-Your ST determines how much damage you do in unarmed combat or with a melee weapon. Two types of damage derive from ST: Thrusting damage (abbreviated “thrust” or “thr”) is your basic damage with a punch, kick, or bite, or an attack with a thrusting weapon such as a spear or a rapier. Swinging damage (abbreviated “swing” or “sw”) is your basic damage with a swung weapon, such as an axe, club, or sword – anything that acts as a lever to multiply your ST. 
-
-Consult the following table for your basic damage. This is given in “dice+modifier” format. 
-
-| ST  | Thrust | Swing |
-| :---: | :-----: | :-----: |
-|  1  |  1d-6  | 1d-5  |
-|  2  |  1d-6  | 1d-5  |
-|  3  |  1d-5  | 1d-4  |
-|  4  |  1d-5  | 1d-4  |
-|  5  |  1d-4  | 1d-3  |
-|  6  |  1d-4  | 1d-3  |
-|  7  |  1d-3  | 1d-2  |
-|  8  |  1d-3  | 1d-2  |
-|  9  |  1d-2  | 1d-1  |
-| 10  |  1d-2  |  1d   |
-| 11  |  1d-1  | 1d+1  |
-| 12  |  1d-1  | 1d+2  |
-| 13  |   1d   | 2d-1  |
-| 14  |   1d   |  2d   |
-| 15  |  1d+1  | 2d+1  |
-| 16  |  1d+1  | 2d+2  |
-| 17  |  1d+2  | 3d-1  |
-| 18  |  1d+2  |  3d   |
-| 19  |  2d-1  | 3d+1  |
-| 20  |  2d-1  | 3d+2  |
-
-Damage is sometimes abbreviated “Dmg.” On your character sheet, list thrust followed by swing, separated by a slash; e.g., if you had ST 13, you would list “Damage 1d/2d-1.”
-
----
-### Acc (Accuracy)
- 
- ***Ranged weapons only.*** 
- Add Accuracy to your skill if you took an Aim maneuver on the turn prior to your attack. If the weapon has a built-in scope, the bonus for this appears as a separate modifier after the weapon’s base Acc; e.g., “7+2.”
+>[!Damage-Roll] Damage Roll
+>
+> Your ST determines how much damage you do in unarmed combat or with a melee weapon. Two types of damage derive from ST: Thrusting damage (abbreviated “thrust” or “thr”) is your basic damage with a punch, kick, or bite, or an attack with a thrusting weapon such as a spear or a rapier. Swinging damage (abbreviated “swing” or “sw”) is your basic damage with a swung weapon, such as an axe, club, or sword – anything that acts as a lever to multiply your ST. 
+>
+> Consult the following table for your basic damage. This is given in “dice+modifier” format. 
+> 
+> | ST  | Thrust | Swing |
+| --- | ------ | ----- |
+| 1   | 1d-6   | 1d-5  |
+| 2   | 1d-6   | 1d-5  |
+| 3   | 1d-5   | 1d-4  |
+| 4   | 1d-5   | 1d-4  |
+| 5   | 1d-4   | 1d-3  |
+| 6   | 1d-4   | 1d-3  |
+| 7   | 1d-3   | 1d-2  |
+| 8   | 1d-3   | 1d-2  |
+| 9   | 1d-2   | 1d-1  |
+| 10  | 1d-2   | 1d    |
+| 11  | 1d-1   | 1d+1  |
+| 12  | 1d-1   | 1d+2  |
+| 13  | 1d     | 2d-1  |
+| 14  | 1d     | 2d    |
+| 15  | 1d+1   | 2d+1  |
+| 16  | 1d+1   | 2d+2  |
+| 17  | 1d+2   | 3d-1  |
+| 18  | 1d+2   | 3d    |
+| 19  | 2d-1   | 3d+1  |
+| 20  | 2d-1   | 3d+2  |
+>
+> Damage is sometimes abbreviated “Dmg.” On your character sheet, list thrust followed by swing, separated by a slash; e.g., if you had ST 13, you would list “Damage 1d/2d-1.”
 
 ---
-### Range
 
-***Ranged weapons only.***
- If a weapon has only one range number, this is the ***Maximum Range (Max)*** in yards at which it can attack a target. If two numbers appear, separated by a slash, the first is ***Half-Damage Range*** (1/2D) and the second is Max. Damaging attacks on targets at or beyond 1/2D inflict half damage. 
- 
- Muscle-powered weapons usually list 1/2D and Max as multiples of the wielder’s ST, not as a fixed range. For example, “¥10/¥15” means 1/2D is 10¥ST and Max is 15¥ST, so someone with ST 10 would have 1/2D 100 and Max 150. For crossbows, use the weapon’s ST in these formulas.
+>[!Accuracy] Acc (Accuracy)
+ > ***<div id="3Bold">Ranged weapons only.</div>***
+ > Add Accuracy to your skill if you took an Aim maneuver on the turn prior to your attack. If the weapon has a built-in scope, the bonus for this appears as a separate modifier after the weapon’s base Acc; e.g., “7+2.”
+
+---
+
+>[!Range] Range
+>
+***<div id="3Bold">Ranged weapons only.</div>***
+> If a weapon has only one range number, this is the ***Maximum Range (Max)*** in yards at which it can attack a target. If two numbers appear, separated by a slash, the first is ***Half-Damage Range*** (1/2D) and the second is Max. Damaging attacks on targets at or beyond 1/2D inflict half damage. 
+ >
+> Muscle-powered weapons usually list 1/2D and Max as multiples of the wielder’s ST, not as a fixed range. For example, “¥10/¥15” means 1/2D is 10¥ST and Max is 15¥ST, so someone with ST 10 would have 1/2D 100 and Max 150. For crossbows, use the weapon’s ST in these formulas.
 
 ---
 ### RoF (Rate of Fire)
@@ -126,7 +138,56 @@ For a melee weapon, your effective ST for damage purposes cannot exceed triple t
 Crossbows and ST: Crossbows and prodds have their own ST value. Use this instead of your ST to determine range and damage. You must specify the ST of such a weapon when you buy it. You can always use a bow that is weaker than you. If you use a stronger bow, it does more damage but take longer to cock (see Shots, above). 
 
 ---
+# Types of Weapons
+Refer to these links for tables of the types of weapons.
+
+[[Melee Weapons]]
+[[Muscle-Powered Ranged Weapons]]
+[[Firearms]]
+
+---
+
 ### Notes 
 The numbers listed here refer to applicable footnotes (if any) at the end of the table.
 
 ---
+
+## Links to other Pages (In Order)
+
+[[GURPS - Ruleset/GURPS Lite/Homepage|What is GURPS?]]
+[[Glossary]]
+### The Basics
+[[Tables]]
+[[Success Rolls]]
+[[Reaction Rolls]]
+[[Damage Rolls]]
+
+### Characters
+
+[[Character Overview]]
+[[Character Points]]
+[[Basic Attributes]]
+##### Character Sheet
+[[Basic Attributes#Secondary Attributes |Secondary Attributes]]
+[[Image and Looks]]
+[[Social Background]]
+[[Wealth and Influence]]
+[[Advantages]]
+[[Disadvantages]]
+[[Quirks]]
+[[Skills]]
+[[Character Improvement]]
+
+### Equipment
+
+[[Armor]]
+[[Shields]]
+[[Weapons]]
+
+### Playing The Game
+[[Physical Feats]]
+[[Mental Feats]]
+[[Combat]]
+[[Injury, Illness, and Fatigue]]
+[[Game Worlds]]
+
