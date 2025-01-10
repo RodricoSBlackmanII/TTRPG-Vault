@@ -1,13 +1,8 @@
 {
 	"version": 5,
 	"id": "A7msHuzgEWeOyN7PW",
-	"total_points": 152,
+	"total_points": 150,
 	"points_record": [
-		{
-			"when": "2025-01-01T22:22:53-05:00",
-			"points": 2,
-			"reason": "BTVoM Earned Points"
-		},
 		{
 			"when": "2025-01-01T18:05:28-05:00",
 			"points": 150,
@@ -25,8 +20,8 @@
 		"gender": "Male",
 		"height": "4'9\"",
 		"weight": "180 lb",
-		"player_name": "DESKTOP-V45BRT1\\Productivity",
-		"tech_level": "3"
+		"tech_level": "3",
+		"portrait": "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"
 	},
 	"settings": {
 		"page": {
@@ -560,18 +555,18 @@
 		},
 		{
 			"attr_id": "basic_speed",
-			"adj": 0,
+			"adj": -1,
 			"calc": {
-				"value": 6,
-				"points": 0
+				"value": 5,
+				"points": -20
 			}
 		},
 		{
 			"attr_id": "basic_move",
-			"adj": -1,
+			"adj": 0,
 			"calc": {
 				"value": 5,
-				"points": -5
+				"points": 0
 			}
 		},
 		{
@@ -586,10 +581,9 @@
 		{
 			"attr_id": "hp",
 			"adj": 0,
-			"damage": 8,
 			"calc": {
 				"value": 12,
-				"current": 4,
+				"current": 12,
 				"points": 0
 			}
 		}
@@ -1130,122 +1124,6 @@
 			}
 		},
 		{
-			"id": "tAqLVfdc3Z4wjaOeE",
-			"source": {
-				"library": "richardwilkes/gcs_master_library",
-				"path": "Basic Set\\Basic Set Traits.adq",
-				"id": "tw1Ad0oSMw2ATM4X1"
-			},
-			"name": "Language: @Language@",
-			"reference": "B24",
-			"tags": [
-				"Advantage",
-				"Language",
-				"Mental"
-			],
-			"prereqs": {
-				"type": "prereq_list",
-				"all": true,
-				"prereqs": [
-					{
-						"type": "trait_prereq",
-						"has": false,
-						"name": {
-							"compare": "is",
-							"qualifier": "Language Talent"
-						},
-						"level": {
-							"compare": "at_least"
-						}
-					}
-				]
-			},
-			"replacements": {
-				"Language": "Dwarvish"
-			},
-			"modifiers": [
-				{
-					"id": "mfNpdwf1J2pNS2KQa",
-					"name": "Native",
-					"reference": "B23",
-					"cost": -6,
-					"cost_type": "points"
-				},
-				{
-					"id": "mrEwBOyTcLPvnm_an",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "None",
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "m5hGI_SxvaVy6hRvo",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "Broken",
-					"cost": 1,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mtJybQFhyQZrIysbs",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "Accented",
-					"cost": 2,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mQpbGNZ7gyDYF3YCj",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "Native",
-					"cost": 3,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "m8zNmwCS_t3IoYgLL",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "None",
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mbozwjGSIr7RNvjBd",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "Broken",
-					"cost": 1,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mTpRxBVFP-OG8AnG1",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "Accented",
-					"cost": 2,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mEgKQOQuxz4dyUKTk",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "Native",
-					"cost": 3,
-					"cost_type": "points"
-				}
-			],
-			"calc": {
-				"points": -3
-			}
-		},
-		{
 			"id": "tuzAEBwVDM1BGiiYz",
 			"source": {
 				"library": "richardwilkes/gcs_master_library",
@@ -1359,6 +1237,122 @@
 			],
 			"calc": {
 				"points": 4
+			}
+		},
+		{
+			"id": "tAqLVfdc3Z4wjaOeE",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Traits.adq",
+				"id": "tw1Ad0oSMw2ATM4X1"
+			},
+			"name": "Language: @Language@",
+			"reference": "B24",
+			"tags": [
+				"Advantage",
+				"Language",
+				"Mental"
+			],
+			"prereqs": {
+				"type": "prereq_list",
+				"all": true,
+				"prereqs": [
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Language Talent"
+						},
+						"level": {
+							"compare": "at_least"
+						}
+					}
+				]
+			},
+			"replacements": {
+				"Language": "Dwarvish"
+			},
+			"modifiers": [
+				{
+					"id": "mfNpdwf1J2pNS2KQa",
+					"name": "Native",
+					"reference": "B23",
+					"cost": -6,
+					"cost_type": "points"
+				},
+				{
+					"id": "mrEwBOyTcLPvnm_an",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "None",
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "m5hGI_SxvaVy6hRvo",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "Broken",
+					"cost": 1,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mtJybQFhyQZrIysbs",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "Accented",
+					"cost": 2,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mQpbGNZ7gyDYF3YCj",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "Native",
+					"cost": 3,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "m8zNmwCS_t3IoYgLL",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "None",
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mbozwjGSIr7RNvjBd",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "Broken",
+					"cost": 1,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mTpRxBVFP-OG8AnG1",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "Accented",
+					"cost": 2,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mEgKQOQuxz4dyUKTk",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "Native",
+					"cost": 3,
+					"cost_type": "points"
+				}
+			],
+			"calc": {
+				"points": -3
 			}
 		},
 		{
@@ -2274,40 +2268,6 @@
 			"equipped": true,
 			"children": [
 				{
-					"id": "eCY88KyMKGYp0MwaY",
-					"source": {
-						"library": "richardwilkes/gcs_master_library",
-						"path": "Basic Set\\Basic Set Equipment.eqp",
-						"id": "edkDXWj1H2wdRQfys"
-					},
-					"description": "Wool Blanket",
-					"reference": "B288",
-					"tech_level": "1",
-					"tags": [
-						"Camping and Survival Gear"
-					],
-					"value": 5,
-					"weight": "4 lb",
-					"quantity": 1,
-					"equipped": true,
-					"calc": {
-						"extended_value": 5,
-						"extended_weight": "4 lb"
-					}
-				},
-				{
-					"id": "eB3wu3GNpN9mGisvd",
-					"description": "Gold and Emerald Ring",
-					"legality_class": "4",
-					"value": 300,
-					"quantity": 1,
-					"equipped": true,
-					"calc": {
-						"extended_value": 300,
-						"extended_weight": "0 lb"
-					}
-				},
-				{
 					"id": "ER9JHtB_m_HeAokan",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
@@ -2445,20 +2405,42 @@
 					}
 				},
 				{
-					"id": "eyy8Sf6nz-yT87Dr9",
-					"description": "Guard's Signet Ring",
-					"legality_class": "4",
-					"value": 150,
+					"id": "eCY88KyMKGYp0MwaY",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "edkDXWj1H2wdRQfys"
+					},
+					"description": "Wool Blanket",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 5,
+					"weight": "4 lb",
 					"quantity": 1,
 					"equipped": true,
 					"calc": {
-						"extended_value": 150,
+						"extended_value": 5,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "eB3wu3GNpN9mGisvd",
+					"description": "Gold and Emerald Ring",
+					"legality_class": "4",
+					"value": 300,
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 300,
 						"extended_weight": "0 lb"
 					}
 				}
 			],
 			"calc": {
-				"extended_value": 647,
+				"extended_value": 497,
 				"extended_weight": "9.572 lb"
 			}
 		},
@@ -2970,7 +2952,7 @@
 		}
 	],
 	"created_date": "2025-01-01T18:05:28-05:00",
-	"modified_date": "2025-01-01T22:19:27-05:00",
+	"modified_date": "2025-01-10T00:30:33-05:00",
 	"calc": {
 		"swing": "1d+2",
 		"thrust": "1d-1",
@@ -2983,11 +2965,11 @@
 			1
 		],
 		"dodge": [
-			9,
 			8,
 			7,
 			6,
-			5
+			5,
+			4
 		]
 	}
 }

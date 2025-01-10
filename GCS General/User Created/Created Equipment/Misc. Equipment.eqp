@@ -106,6 +106,22 @@
 				"extended_value": 5,
 				"extended_weight": "0 lb"
 			}
+		},
+		{
+			"id": "ejRKZ-JKADqHzUxhY",
+			"description": "Bottle of rare, exquite Burnfeller Ale",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"value": 10,
+			"weight": "0.5 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 10,
+				"extended_weight": "0.5 lb"
+			}
 		}
 	]
 }
