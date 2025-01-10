@@ -122,6 +122,18 @@
 				"extended_value": 10,
 				"extended_weight": "0.5 lb"
 			}
+		},
+		{
+			"id": "e1TSgCNuaIB1t-WQI",
+			"description": "Leather Cloak",
+			"notes": "Gives a bonus of 1 DR from the rear",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
 		}
 	]
 }
