@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
+                "file": "GURPS - Ruleset/GURPS Lite/Playing The Game/Injury, Illness, and Fatigue.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Success Rolls"
+              "title": "Injury, Illness, and Fatigue"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e50e1315194d6c29",
@@ -188,28 +189,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3436e19352a3bc19",
+  "active": "52dafec5a0bf3d4d",
   "lastOpenFiles": [
+    "GCS General/User Created/Created Unused Characters/Beyond The Vale of Madness/King Coppertong.gcs",
+    "GCS General/User Created/Created Unused Characters/Beyond The Vale of Madness",
+    "GCS General/User Created/Created Unused Characters",
+    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/King Coppertong.gcs",
+    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness",
+    "GCS General/GURPS Solo Adventures",
+    "GCS General/User Created/Created Containers/Notes.not",
+    "GCS General/GURPS Character Templates/PlayerCharacterGeneralTemplate.gct",
+    "GCS General/GURPS Character Templates/GURPS One Shots/Cold Bounty/Sir Halsey of New Speyer.gcs",
+    "GCS General/GURPS Character Templates/GURPS One Shots/Cold Bounty/King Coppertong.gcs",
+    "GCS General/GURPS Character Templates/GURPS One Shots/Cold Bounty/Cariyen Kraye.gcs",
+    "GCS General/GURPS Character Templates/Character Images/KingCoppertongPortrait.png",
+    "GCS General/GURPS Character Templates/Character Images/CariyenKrayePortait.png",
+    "GURPS - Ruleset/GURPS Lite/Playing The Game/Injury, Illness, and Fatigue.md",
     "GURPS - Ruleset/GURPS Lite/Playing The Game/Combat.md",
-    "GURPS - Ruleset/GURPS Lite/Equipment/Weapons.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
+    "GURPS - Ruleset/GURPS Lite/Equipment/Weapons.md",
     "GURPS - Ruleset/GURPS Lite/Playing The Game/Physical Feats.md",
-    "GURPSSoloAdventures/GURPSSoloAdventuresPDF/Beyond-the-Vale-of-Madness-GURPS.pdf",
-    "GURPSSoloAdventures/GURPSSoloAdventuresPDF/DragonsDemise-GURPS.pdf",
-    "GURPSSoloAdventures/GURPSSoloAdventuresPDF/The Cold Bounty.pdf",
-    "GURPS Resources/GURPS Book PDFs/GURPS 4th - Lite.pdf",
     "GURPS - Ruleset/GURPS Lite/Homepage.md",
     "GURPS - Ruleset/GURPS Lite/Glossary.md",
     "GURPS - Ruleset/GURPS Lite/Equipment/Weapon Types/Muscle-Powered Ranged Weapons.md",
-    "GURPS Resources/GURPS Book PDFs/GURPSPDFs.zip",
-    "GURPSSoloAdventures/GURPSSoloAdventuresPDF",
-    "GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-    "GURPS Resources/GURPS Book PDFs/GURPS 4th - Powers.pdf",
-    "GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 6 Quirks.pdf",
-    "GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 4 Enchancements.pdf",
     "Randos2Heroes/Random Roll Tables/Random Encounter Race Activities.md",
     "GURPS - Ruleset/GURPS Lite/Playing The Game/Mental Feats.md",
-    "GURPS - Ruleset/GURPS Lite/Playing The Game/Injury, Illness, and Fatigue.md",
     "GURPS - Ruleset/GURPS Lite/Playing The Game/Game Worlds.md",
     "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Notes/World Spawn Notes.md",
     "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Notes/Random Roll Notes.md",
@@ -225,7 +229,6 @@
     "GURPS - Ruleset/GURPS Lite/Equipment/Homepage.md",
     "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Wealth and Influence.md",
     "GURPS - Ruleset/GURPS Lite/Characters/Character Sheet/Image and Looks.md",
-    "GURPS - Ruleset/GURPS Lite/Characters/Character Overview.md",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBrassDragon.webp",
@@ -234,8 +237,6 @@
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-pine.webp",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-cottage-pine.webp",
     "Foundry/Data/systems/dnd5e/tokens/monstrosity/Androsphinx.webp",
-    "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBlueDragon.webp",
-    "Foundry/Data/systems/dnd5e/tokens/celestial/SolarBow.webp",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
