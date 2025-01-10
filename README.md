@@ -1,2 +1,2 @@
 # TTRPG-Vault
- TTRPG Vault to share with friends, contains guides, completed characters, and updates.
+ TTRPG Vault to share with friends, contains rules, completed characters, and session notes (Potentialy).
