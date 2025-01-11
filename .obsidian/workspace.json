@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-                "page": 3,
+                "page": 86,
                 "left": -10,
-                "top": 76,
+                "top": 757,
                 "zoom": 1.4779411764705885
               },
               "icon": "lucide-file-text",
@@ -193,8 +193,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "52dafec5a0bf3d4d",
+  "active": "3436e19352a3bc19",
   "lastOpenFiles": [
+    "Library/GCS General/GURPS Character Templates/GURPS One Shots/Cold Bounty/William Exel.gcs",
+    "Library/GCS General/GURPS Character Templates/GURPS One Shots/Cold Bounty/Sisley Bauquemare the Spell Burglar.gcs",
+    "Library/release.txt",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Lite.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
     "Library/GURPS - Ruleset/GURPS Lite/Characters/Basic Attributes.md",
@@ -204,8 +207,6 @@
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 6 Quirks.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 4 Enchancements.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 3 Talents.pdf",
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 2 Perks.pdf",
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
     "Library/GURPS - Ruleset/GURPS Lite/Playing The Game/Physical Feats.md",
     "Library/GURPS - Ruleset/GURPS Lite/Playing The Game/Mental Feats.md",
     "Library/GURPS - Ruleset/GURPS Lite/Playing The Game/Injury, Illness, and Fatigue.md",
