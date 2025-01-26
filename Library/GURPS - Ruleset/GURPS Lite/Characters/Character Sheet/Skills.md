@@ -31,17 +31,14 @@ Some fields demand more study and practice than others. GURPS Lite uses three �
 
 This table is for calculating your B.S. (Basic Skill) for each skill, based on its difficulty.
 
-| Skill Level | Skill Level | Skill Level | B.S.        |
-| ----------- | ----------- | ----------- | ----------- |
-| Easy        | Average     | Hard        |             |
-| –           | –           | –           | Attribute-3 |
-| –           | –           | 1           | Attribute-2 |
-| –           | 1           | 2           | Attribute-1 |
-| 1           | 2           | 4           | Attribute+0 |
-| 2           | 4           | 8           | Attribute+1 |
-| 4           | 8           | 12          | Attribute+2 |
-| 8           | 12          | 16          | Attribute+3 |
-| x+4         | x+4         | x+4         | Extra+1     |
+| Points     | Easy            | Average        | Hard            | Very Hard                     |
+|------------|-----------------|----------------|-----------------|-------------------------------|
+| 0 (Default) | Attribute-4     | Attribute-5    | Attribute-6     | Attribute-6 or None           |
+| 1          | Attribute       | Attribute-1    | Attribute-2     | Attribute-3                   |
+| 2          | Attribute+1     | Attribute      | Attribute-1     | Attribute-2                   |
+| 4          | Attribute+2     | Attribute+1    | Attribute       | Attribute-1                   |
+| Each +4    | +1              | +1             | +1              | +1                            |
+
 X is your skill level to qualify for the extra bonus once reaching 8/12/16 for Easy/Average/Hard respectively
 
 ---
