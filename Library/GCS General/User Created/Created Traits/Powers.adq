@@ -1,0 +1,357 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "t7bJLx80J-ucRY-q7",
+			"name": "Hollow Spell Imbuement",
+			"tags": [
+				"Advantage",
+				"Magical",
+				"Mental"
+			],
+			"modifiers": [
+				{
+					"id": "m864JxF3lQ2s5MG61",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mlMAMv0A4zOUT52xH"
+					},
+					"name": "No Signature",
+					"reference": "B106,P103",
+					"cost": 20
+				},
+				{
+					"id": "mCXBIbpFPUkqQNgeT",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "m3A48zHquWfNeelzk"
+					},
+					"name": "Triggered Delay",
+					"reference": "B105",
+					"notes": "When the spell hits an object (Designated if Spirit or not)",
+					"cost": 50
+				},
+				{
+					"id": "m2zxtMRQ1ef8lVB5p",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "m21igBdWYgdcpw-2W"
+					},
+					"name": "Requires Magic Words",
+					"reference": "PU8:5",
+					"cost": -10
+				},
+				{
+					"id": "m1adqgSes4ST3j9A_",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mcXt_Iwi0jANXo9f3"
+					},
+					"name": "Requires Skill Roll (Gun)",
+					"reference": "PU8:17",
+					"cost": -5
+				},
+				{
+					"id": "mcYZpg3vWoIWc-GVC",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mZ6n0ZDsrzwxwFOSe"
+					},
+					"name": "Requires Gestures",
+					"reference": "PU8:5",
+					"cost": -10
+				},
+				{
+					"id": "mEdR0IAqdhS0J4363",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Powers\\Powers Modifiers.adm",
+						"id": "mTvkmxweTpZMphMq8"
+					},
+					"name": "Magical",
+					"reference": "P27",
+					"notes": "Requires ambient Mana, and vulnerable to anti-powers.",
+					"cost": -10
+				},
+				{
+					"id": "mr2PDHcELyxRgMbcd",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mXLmAYS2DNM53cSM5"
+					},
+					"name": "Visible",
+					"reference": "PU8:19",
+					"cost": -10
+				},
+				{
+					"id": "mSwpaWvoU8CviP2U3",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mxRNBA06vtsaQacuQ"
+					},
+					"name": "Blockable",
+					"reference": "PU8:12",
+					"cost": -5
+				},
+				{
+					"id": "m9KQrVKfdyj3xaBh9",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
+						"id": "mi6XeX7ODQazjyugi"
+					},
+					"name": "Can be Stolen",
+					"reference": "B117",
+					"notes": "Forcibly Removed",
+					"cost": -10
+				},
+				{
+					"id": "mrg47dk9aRWPIcKv3",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
+						"id": "mfis0PWj017_IUatO"
+					},
+					"name": "Unique",
+					"cost": -25
+				}
+			],
+			"base_points": 15,
+			"weapons": [
+				{
+					"id": "W6KuN60g6gd7O4k1N",
+					"damage": {
+						"type": "pi-",
+						"base": "1d"
+					},
+					"accuracy": "3",
+					"range": "50/100",
+					"rate_of_fire": "1",
+					"recoil": "1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"specialization": "@Attack Type@"
+						},
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"damage": "1d pi-"
+					}
+				}
+			],
+			"calc": {
+				"points": 13
+			}
+		},
+		{
+			"id": "tTpH_vnn5slrsPnvZ",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Traits.adq",
+				"id": "tLwat-1-cXIRFfQyp"
+			},
+			"name": "Innate Attack (Small Pierce)",
+			"reference": "B62,P53,MA45",
+			"tags": [
+				"Advantage",
+				"Exotic",
+				"Physical"
+			],
+			"modifiers": [
+				{
+					"id": "mWwINNKbX2YmBNLSM",
+					"name": "Double Blunt Trauma",
+					"reference": "B104",
+					"notes": "1HP per 10 dmg",
+					"cost": 20,
+					"disabled": true
+				},
+				{
+					"id": "mQy8Wfz9Qn1OnS15D",
+					"name": "Explosion",
+					"reference": "B104",
+					"cost": 50,
+					"levels": 1,
+					"disabled": true
+				},
+				{
+					"id": "mAPjhS1gevEIXcmrh",
+					"name": "Fragmentation",
+					"reference": "B104",
+					"cost": 15,
+					"levels": 1,
+					"disabled": true
+				},
+				{
+					"id": "m3huTrDmOjnK7C36f",
+					"name": "Fragmentation",
+					"reference": "B104",
+					"notes": "Hot",
+					"cost": 15,
+					"levels": 1,
+					"disabled": true
+				},
+				{
+					"id": "mT217kbMIbkg98vfo",
+					"name": "Surge",
+					"reference": "B104",
+					"cost": 20,
+					"disabled": true
+				},
+				{
+					"id": "mNR0TAF55qtrj1BCN",
+					"name": "Armor Divisor",
+					"reference": "B102",
+					"notes": "2",
+					"cost": 50,
+					"disabled": true
+				},
+				{
+					"id": "mQC5CzneCFBalDedn",
+					"name": "Armor Divisor",
+					"reference": "B102",
+					"notes": "3",
+					"cost": 100,
+					"disabled": true
+				},
+				{
+					"id": "mJcEMnF8Lu57LgAyg",
+					"name": "Armor Divisor",
+					"reference": "B102",
+					"notes": "5",
+					"cost": 150,
+					"disabled": true
+				},
+				{
+					"id": "mkVWwBcJORNvTXL2k",
+					"name": "Armor Divisor",
+					"reference": "B102",
+					"notes": "10",
+					"cost": 200,
+					"disabled": true
+				},
+				{
+					"id": "mD1a37seqnM5mX7uO",
+					"name": "Side Effect",
+					"reference": "B109",
+					"notes": "@Effect@",
+					"disabled": true
+				},
+				{
+					"id": "mDBl4oe1AzCRFk5V_",
+					"name": "Symptoms",
+					"reference": "B109",
+					"notes": "@Effect@",
+					"disabled": true
+				},
+				{
+					"id": "mM9RoULFmujaF_6Ah",
+					"name": "Armor Divisor",
+					"reference": "B110",
+					"notes": "0.5",
+					"cost": -30,
+					"disabled": true
+				},
+				{
+					"id": "mlRRYvZ9EKN5lJu3P",
+					"name": "Armor Divisor",
+					"reference": "B110",
+					"notes": "0.2",
+					"cost": -50,
+					"disabled": true
+				},
+				{
+					"id": "m0nHLmZc_yXunKkY5",
+					"name": "Armor Divisor",
+					"reference": "B110",
+					"notes": "0.1",
+					"cost": -70,
+					"disabled": true
+				},
+				{
+					"id": "mvPxSebUhMCYt9up5",
+					"name": "No Blunt Trauma",
+					"reference": "B111",
+					"cost": -20,
+					"disabled": true
+				},
+				{
+					"id": "my_o5IcOupcmjZ9vu",
+					"name": "No Wounding",
+					"reference": "B111",
+					"cost": -50,
+					"disabled": true
+				},
+				{
+					"id": "mbYc-wCs-I7sT8fjs",
+					"name": "Incendiary",
+					"reference": "B104",
+					"cost": 10,
+					"disabled": true
+				},
+				{
+					"id": "m9WbY8mmdNFHMzZbD",
+					"name": "HP Ammo",
+					"reference": "PU4:18",
+					"cost": 40,
+					"disabled": true
+				}
+			],
+			"points_per_level": 3,
+			"weapons": [
+				{
+					"id": "WQ4bTbBTVUuplNI_x",
+					"damage": {
+						"type": "pi-",
+						"base": "1d"
+					},
+					"accuracy": "3",
+					"range": "10/100",
+					"rate_of_fire": "1",
+					"recoil": "1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"specialization": "@Attack Type@"
+						},
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"damage": "1d pi-"
+					}
+				}
+			],
+			"can_level": true,
+			"levels": 1,
+			"calc": {
+				"points": 3
+			}
+		}
+	]
+}
