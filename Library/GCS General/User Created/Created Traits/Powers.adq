@@ -3,7 +3,8 @@
 	"rows": [
 		{
 			"id": "t7bJLx80J-ucRY-q7",
-			"name": "Hollow Spell Imbuement",
+			"name": "Hollow Model 1",
+			"notes": "Allows you to shoot magical bullets (Bullets with a spell enchanted upon them)",
 			"tags": [
 				"Advantage",
 				"Magical",
@@ -11,7 +12,7 @@
 			],
 			"modifiers": [
 				{
-					"id": "m864JxF3lQ2s5MG61",
+					"id": "mqXChW8YFX_eVPLFD",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
@@ -22,7 +23,7 @@
 					"cost": 20
 				},
 				{
-					"id": "mCXBIbpFPUkqQNgeT",
+					"id": "mWVS__DcSfia35lRe",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
@@ -34,7 +35,42 @@
 					"cost": 50
 				},
 				{
-					"id": "m2zxtMRQ1ef8lVB5p",
+					"id": "m-KbOOJJPaFG5IqLG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mbO8GjGu_NuPTLz6e"
+					},
+					"name": "Area Effect",
+					"reference": "B102,P100",
+					"notes": "2^level radius",
+					"cost": 50,
+					"levels": 1
+				},
+				{
+					"id": "mgDYiUc06Zx0deFXg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 4 Enhancements Enhancement Modifiers.adm",
+						"id": "mpgXdAagogt4zVPtE"
+					},
+					"name": "Switchable",
+					"reference": "PU4:17",
+					"cost": 10
+				},
+				{
+					"id": "mQY4qJ-PjcTMlsJXm",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mCygOZY2iH1tva7XM"
+					},
+					"name": "Selectivity",
+					"reference": "B108,P105",
+					"cost": 10
+				},
+				{
+					"id": "mP83GwV-wsJEGsM4X",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
@@ -45,7 +81,7 @@
 					"cost": -10
 				},
 				{
-					"id": "m1adqgSes4ST3j9A_",
+					"id": "msNQKNxavbB9UR0rg",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
@@ -56,7 +92,7 @@
 					"cost": -5
 				},
 				{
-					"id": "mcYZpg3vWoIWc-GVC",
+					"id": "m9TxK8lSHOXPppp2H",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
@@ -67,7 +103,7 @@
 					"cost": -10
 				},
 				{
-					"id": "mEdR0IAqdhS0J4363",
+					"id": "m7770NhR9o69jZ2y3",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Powers\\Powers Modifiers.adm",
@@ -79,7 +115,7 @@
 					"cost": -10
 				},
 				{
-					"id": "mr2PDHcELyxRgMbcd",
+					"id": "mRIa8iE0YXP1y_FeR",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
@@ -90,7 +126,7 @@
 					"cost": -10
 				},
 				{
-					"id": "mSwpaWvoU8CviP2U3",
+					"id": "mGUuuPA4PQJsBEVsQ",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
@@ -101,7 +137,7 @@
 					"cost": -5
 				},
 				{
-					"id": "m9KQrVKfdyj3xaBh9",
+					"id": "mzS3lZ1QziYltUYac",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
@@ -113,7 +149,7 @@
 					"cost": -10
 				},
 				{
-					"id": "mrg47dk9aRWPIcKv3",
+					"id": "m45ngkQHbnTg96a0H",
 					"source": {
 						"library": "richardwilkes/gcs_master_library",
 						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
@@ -121,16 +157,40 @@
 					},
 					"name": "Unique",
 					"cost": -25
+				},
+				{
+					"id": "mGR1ln1uSnroOVlGG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mcXN1MCeZnZB4Jz2e"
+					},
+					"name": "Follow-Up",
+					"reference": "B105,P102",
+					"notes": "Cost is variable and must be entered manually"
+				},
+				{
+					"id": "m9ii1gzkSJ1T6iZ-V",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 4 Enhancements Enhancement Modifiers.adm",
+						"id": "mEPw3arucLNUneQGC"
+					},
+					"name": "Reliable",
+					"reference": "PU4:16",
+					"cost": 5,
+					"levels": 3
 				}
 			],
-			"base_points": 15,
+			"base_points": 10,
 			"weapons": [
 				{
-					"id": "W6KuN60g6gd7O4k1N",
+					"id": "WID6YM1KA2cxFtSjt",
 					"damage": {
-						"type": "pi-",
+						"type": "pi",
 						"base": "1d"
 					},
+					"usage": "Bullet - Shot",
 					"accuracy": "3",
 					"range": "50/100",
 					"rate_of_fire": "1",
@@ -152,205 +212,12 @@
 						}
 					],
 					"calc": {
-						"damage": "1d pi-"
+						"damage": "1d pi"
 					}
 				}
 			],
 			"calc": {
-				"points": 13
-			}
-		},
-		{
-			"id": "tTpH_vnn5slrsPnvZ",
-			"source": {
-				"library": "richardwilkes/gcs_master_library",
-				"path": "Basic Set\\Basic Set Traits.adq",
-				"id": "tLwat-1-cXIRFfQyp"
-			},
-			"name": "Innate Attack (Small Pierce)",
-			"reference": "B62,P53,MA45",
-			"tags": [
-				"Advantage",
-				"Exotic",
-				"Physical"
-			],
-			"modifiers": [
-				{
-					"id": "mWwINNKbX2YmBNLSM",
-					"name": "Double Blunt Trauma",
-					"reference": "B104",
-					"notes": "1HP per 10 dmg",
-					"cost": 20,
-					"disabled": true
-				},
-				{
-					"id": "mQy8Wfz9Qn1OnS15D",
-					"name": "Explosion",
-					"reference": "B104",
-					"cost": 50,
-					"levels": 1,
-					"disabled": true
-				},
-				{
-					"id": "mAPjhS1gevEIXcmrh",
-					"name": "Fragmentation",
-					"reference": "B104",
-					"cost": 15,
-					"levels": 1,
-					"disabled": true
-				},
-				{
-					"id": "m3huTrDmOjnK7C36f",
-					"name": "Fragmentation",
-					"reference": "B104",
-					"notes": "Hot",
-					"cost": 15,
-					"levels": 1,
-					"disabled": true
-				},
-				{
-					"id": "mT217kbMIbkg98vfo",
-					"name": "Surge",
-					"reference": "B104",
-					"cost": 20,
-					"disabled": true
-				},
-				{
-					"id": "mNR0TAF55qtrj1BCN",
-					"name": "Armor Divisor",
-					"reference": "B102",
-					"notes": "2",
-					"cost": 50,
-					"disabled": true
-				},
-				{
-					"id": "mQC5CzneCFBalDedn",
-					"name": "Armor Divisor",
-					"reference": "B102",
-					"notes": "3",
-					"cost": 100,
-					"disabled": true
-				},
-				{
-					"id": "mJcEMnF8Lu57LgAyg",
-					"name": "Armor Divisor",
-					"reference": "B102",
-					"notes": "5",
-					"cost": 150,
-					"disabled": true
-				},
-				{
-					"id": "mkVWwBcJORNvTXL2k",
-					"name": "Armor Divisor",
-					"reference": "B102",
-					"notes": "10",
-					"cost": 200,
-					"disabled": true
-				},
-				{
-					"id": "mD1a37seqnM5mX7uO",
-					"name": "Side Effect",
-					"reference": "B109",
-					"notes": "@Effect@",
-					"disabled": true
-				},
-				{
-					"id": "mDBl4oe1AzCRFk5V_",
-					"name": "Symptoms",
-					"reference": "B109",
-					"notes": "@Effect@",
-					"disabled": true
-				},
-				{
-					"id": "mM9RoULFmujaF_6Ah",
-					"name": "Armor Divisor",
-					"reference": "B110",
-					"notes": "0.5",
-					"cost": -30,
-					"disabled": true
-				},
-				{
-					"id": "mlRRYvZ9EKN5lJu3P",
-					"name": "Armor Divisor",
-					"reference": "B110",
-					"notes": "0.2",
-					"cost": -50,
-					"disabled": true
-				},
-				{
-					"id": "m0nHLmZc_yXunKkY5",
-					"name": "Armor Divisor",
-					"reference": "B110",
-					"notes": "0.1",
-					"cost": -70,
-					"disabled": true
-				},
-				{
-					"id": "mvPxSebUhMCYt9up5",
-					"name": "No Blunt Trauma",
-					"reference": "B111",
-					"cost": -20,
-					"disabled": true
-				},
-				{
-					"id": "my_o5IcOupcmjZ9vu",
-					"name": "No Wounding",
-					"reference": "B111",
-					"cost": -50,
-					"disabled": true
-				},
-				{
-					"id": "mbYc-wCs-I7sT8fjs",
-					"name": "Incendiary",
-					"reference": "B104",
-					"cost": 10,
-					"disabled": true
-				},
-				{
-					"id": "m9WbY8mmdNFHMzZbD",
-					"name": "HP Ammo",
-					"reference": "PU4:18",
-					"cost": 40,
-					"disabled": true
-				}
-			],
-			"points_per_level": 3,
-			"weapons": [
-				{
-					"id": "WQ4bTbBTVUuplNI_x",
-					"damage": {
-						"type": "pi-",
-						"base": "1d"
-					},
-					"accuracy": "3",
-					"range": "10/100",
-					"rate_of_fire": "1",
-					"recoil": "1",
-					"defaults": [
-						{
-							"type": "skill",
-							"name": "Innate Attack",
-							"specialization": "@Attack Type@"
-						},
-						{
-							"type": "skill",
-							"name": "Innate Attack",
-							"modifier": -2
-						},
-						{
-							"type": "dx",
-							"modifier": -4
-						}
-					],
-					"calc": {
-						"damage": "1d pi-"
-					}
-				}
-			],
-			"can_level": true,
-			"levels": 1,
-			"calc": {
-				"points": 3
+				"points": 17
 			}
 		}
 	]
