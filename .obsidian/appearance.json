@@ -1,5 +1,5 @@
 {
-  "enabledCssSnippets": [
-    "GURPS_Formatting"
-  ]
+  "enabledCssSnippets": [],
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian"
 }

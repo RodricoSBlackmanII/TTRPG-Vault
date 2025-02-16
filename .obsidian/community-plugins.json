@@ -2,5 +2,11 @@
   "obsidian-git",
   "obsidian-advanced-uri",
   "dataview",
-  "pdf-plus"
+  "pdf-plus",
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "font-size",
+  "obsidian-excalidraw-plugin",
+  "aprils-automatic-timelines"
 ]
