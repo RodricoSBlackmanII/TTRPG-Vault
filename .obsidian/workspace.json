@@ -11,16 +11,14 @@
             "id": "52dafec5a0bf3d4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
-                "page": 5,
-                "left": -32,
-                "top": 678,
-                "zoom": 0.4730392156862745
+                "file": "Library/Alrathion - The End's Fall/Magic's Core/Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Power Ups 1 Imbuements"
+              "icon": "lucide-file",
+              "title": "Magic"
             }
           },
           {
@@ -58,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,14 +185,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "aafc5db036311253",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,13 +219,29 @@
   },
   "active": "52dafec5a0bf3d4d",
   "lastOpenFiles": [
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+    "Library/Alrathion - The End's Fall/Magic's Core/Magic's Vocabulary.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Religion.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Food.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Talar.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Muldrath.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Kandri.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Dalthea.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Kathali.md",
+    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Human.md",
+    "Library/GURPS Resources/GURPS Book PDFs/GURPS_Skill_Categories.pdf",
+    "Library/GURPS - Ruleset/GURPS Lite/Homepage.md",
+    "Library/Alrathion - The End's Fall/Session Zero Description.md",
+    "Library/Alrathion - The End's Fall/Magic vs. Science.md",
+    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Composition of Blood.md",
+    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
+    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
+    "Library/Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
+    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
     "Library/GCS General/User Created/Created Skills",
     "Library/GURPS - Ruleset/GURPS Lite/Equipment/Weapons.md",
     "Library/Alrathion - The End's Fall/Magic's Core/Magic.md",
-    "Library/Alrathion - The End's Fall/Magic's Core/Magic's Vocabulary.md",
-    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
     "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/The Feldermans' (Summit).md",
     "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/Recruitment.md",
     "README.md",
@@ -227,28 +251,12 @@
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Pyramid 3_36.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Pyramid - 3_120.pdf",
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Pyramid - 3_44.pdf",
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Foundry Aid Guide.pdf",
-    "Library/Alrathion - The End's Fall/Magic vs. Science.md",
     "Library/Alrathion/Maps/Alrathion.png",
     "Library/Alrathion/Magic.md",
     "Library/Alrathion/Races/Human.md",
     "Library/Alrathion/Session Zero Description.md",
-    "Library/Alrathion - The End's Fall/Session Zero Description.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Human.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Kathali.md",
     "Library/Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
     "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/Tira Family.md",
-    "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/Yorda School of Magic.md",
-    "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
-    "Library/Alrathion - The End's Fall/A World of Magic/Magic Families/Pudt Family.md",
-    "Library/Alrathion - The End's Fall/A World of Magic/Magical Tools/General Ideas.md",
-    "Library/Alrathion - The End's Fall/A World of Magic/How Magic Affects the World.md",
-    "Library/Alrathion - The End's Fall/Campaign Story/A New Frontier.md",
-    "Library/Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
-    "Library/Alrathion - The End's Fall/Quick Ideas.md",
-    "Library/Alrathion - The End's Fall/Player Profiency.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Homepage.md",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldwithTectonicPlates.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldTectonicPlates.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldMap.png",
