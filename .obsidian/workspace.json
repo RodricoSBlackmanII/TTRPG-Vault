@@ -11,14 +11,14 @@
             "id": "6430f2bd27fadcc2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
-                "bFile": "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
-                "aRef": ""
+                "file": "Library/Alrathion - The End's Fall/Magic Families/General Similarities/The Feldermans' (Summit).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Homepage"
+              "icon": "lucide-file",
+              "title": "The Feldermans' (Summit)"
             }
           }
         ]
@@ -206,9 +206,12 @@
   },
   "active": "6430f2bd27fadcc2",
   "lastOpenFiles": [
-    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
-    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
+    "Library/Alrathion - The End's Fall/Magic Families/General Similarities/Recruitment.md",
+    "Library/Alrathion - The End's Fall/History/History of The Kathali People.md",
+    "Library/Alrathion - The End's Fall/History/History of Mining, Accessibility and Economics.md",
     "Library/Alrathion - The End's Fall/Magic's Core/Magic.md",
+    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
+    "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
     "Library/Alrathion - The End's Fall/Magic's Core/Aimasturgy/Composition of Blood.md",
     "Templates/Session Template.md",
     "Library/Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
@@ -240,9 +243,6 @@
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Cheese Monger Vine.md",
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Soup Fork Cress.md",
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Soup Fork.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Veilroot Tuber.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Skycarver Bloom.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Prismvine.md",
     "Library/Alrathion/Maps/Alrathion.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldwithTectonicPlates.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldTectonicPlates.png",

@@ -20,14 +20,6 @@ What arises from this system:
 
 ---
 
-What are repercussions of this system:
-
-### Economic
-### Social
-### Cultural
-
----
-
 Magical Combat is based on burning one’s health (Blood) to catalyse spells.
 
 Wards can be created by targeting a user's Vraul signature (Unique to the blood augmentation).

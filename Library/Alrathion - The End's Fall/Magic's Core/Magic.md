@@ -1,7 +1,9 @@
 #MagicalLawsAlrathion 
 
+---
 *"What is fire? It it the ignition? It it the light it gives off? is it all of those and more? Just as we cannot truly define fire, we cannot truly define anything. We can only prescribe categories upon it. Nothing is stopping a fire from lacking light. We can only think it does."*
 - Tunda Tunda of the Great Council
+---
 
 # General Overview
 Vraul is the universe's lifeblood. Magic is a matter of your power over it.
