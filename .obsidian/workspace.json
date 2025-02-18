@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9612ab6360b88070",
+        "id": "d79b24cd95f6fab2",
         "type": "tabs",
         "children": [
           {
-            "id": "6430f2bd27fadcc2",
+            "id": "db4c02320fd96798",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Templates/Session Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Session Template"
             }
           }
         ]
@@ -201,12 +201,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6430f2bd27fadcc2",
+  "active": "db4c02320fd96798",
   "lastOpenFiles": [
+    "Testing Folder/Untitled.md",
+    "Testing Folder/blahalas adbasdasd.md",
+    "Library/Alrathion - The End's Fall/Sessions/Player Notes/Session Test.md",
+    "Testing Folder",
+    "Library/Alrathion - The End's Fall/Magic vs. Science.md",
+    "README.md",
     "Library/Alrathion - The End's Fall/Campaign Story/A New Frontier.md",
     "Library/Alrathion - The End's Fall/Campaign Story/Plot Hooks.md",
     "Library/Alrathion - The End's Fall/Magic Families/General Similarities/The Feldermans' (Summit).md",
@@ -232,18 +237,12 @@
     "Library/GURPS Resources/GURPS Book PDFs/GURPS For Dummies.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Realm Management.pdf",
     "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 8.pdf",
-    "Library/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 3.pdf",
     "Library/Alrathion - The End's Fall/Player Tutorials/Veronica (Mirana).md",
     "Library/Alrathion - The End's Fall/Player Tutorials/Chez (Amadeus).md",
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/Hierarchy.md",
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Important People/Tunda Tunda.md",
     "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Religion.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/General Overview.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Food.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Mellow Valley Blossom.md",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Boar Hut Fern.md",
     "Library/Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
-    "Library/Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Starveil Lichen.md",
     "Library/Alrathion/Maps/Alrathion.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldwithTectonicPlates.png",
     "Library/Alrathion - The End's Fall/Maps/World Maps/WorldTectonicPlates.png",

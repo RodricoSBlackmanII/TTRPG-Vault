@@ -9,7 +9,6 @@
 ***Immersion is King.*** Let's play a game where people are immersed.
 - Respect the scene. Keep meta talk to a minimum.
 - Respect the characters. Don't joke when people are roleplaying.
-- Respect the ignorance. Artless exposition might be worse than focused ignorance.
 - Respect the player. Players can ask for what they need, don't volunteer it unprompted.
 ---
 
