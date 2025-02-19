@@ -24,4 +24,6 @@ The kathali believe that balance is important. To exemplify this, they make sure
 - Bear
 - Cat
 - Bird
-- Reptiles
+
+### Heart Trees
+At the root of the Kathali is their heart trees. They symbolize their unity and connection to one another. They are kept alive by a designated caretaker within each of the clan heads.
